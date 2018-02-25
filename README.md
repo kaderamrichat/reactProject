@@ -1,4 +1,4 @@
-#react project with Firebase Auth and google maps Geolocation
+# React project with Firebase Auth and google maps Geolocation
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
